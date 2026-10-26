@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Fractali\Fractali\bin\Debug\Fractali.exe.config
+C:\Users\David\source\repos\Fractali\Fractali\bin\Debug\Fractali.exe
+C:\Users\David\source\repos\Fractali\Fractali\bin\Debug\Fractali.pdb
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.Form1.resources
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.Properties.Resources.resources
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.exe
+C:\Users\David\source\repos\Fractali\Fractali\obj\Debug\Fractali.pdb
